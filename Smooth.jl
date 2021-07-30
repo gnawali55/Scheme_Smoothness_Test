@@ -1,5 +1,5 @@
 
-struct Prm
+mutable struct Prm
   l::Length
   b::breadth
   h::Depth
